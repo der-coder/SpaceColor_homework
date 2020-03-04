@@ -17,10 +17,12 @@ puntuales:
 a) estrechamiento del contraste,
 b) uso de umbrales, e
 c) histogramas.
+
 Tus funciones deberán lucir como sigue:
-function_contraste = contraste(imagenE,imagenS,alpha,beta,gamma);
-function_umbral = umbral (imagenE,imagenS,umbral);
-function_histograma = ecualizar(imagenE,imagenS);
+
+    function_contraste = contraste(imagenE,imagenS,alpha,beta,gamma);
+    function_umbral = umbral (imagenE,imagenS,umbral);
+    function_histograma = ecualizar(imagenE,imagenS);
 .
 Realiza las corridas de los tres operadores en cada una de las imágenes que
 elegiste, haz un análisis comparativo de los resultados obtenidos, escribe el
