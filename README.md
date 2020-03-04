@@ -14,6 +14,7 @@ con una imagen de prueba.
 
     La tupla RGB es: <190,40,15>.
    
+   ![](Tomates_Eq6_RGBtupla_190,40,15.JPG)
 
 
 2. Operadores puntuales: Implementa en MATLAB los siguientes operadores
