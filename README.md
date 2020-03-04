@@ -12,6 +12,10 @@ blancos, si está representado en escala de grises) el color especificado por la
 tupla: <R,G,B>, la cual será enviada vía correo electronico a cada equipo, junto
 con una imagen de prueba.
 
+    La tupla RGB es: <190,40,15>.
+   
+
+
 2. Operadores puntuales: Implementa en MATLAB los siguientes operadores
 puntuales:
 a) estrechamiento del contraste,
